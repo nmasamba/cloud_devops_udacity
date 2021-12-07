@@ -2,5 +2,13 @@
 	{
 		"ParameterKey": "EnvironmentName",
 		"ParameterValue": "UdacityProject"
+	},
+	{
+		"ParameterKey":"AMIID",
+		"ParameterValue": "ami-00ddb0e5626798373"
+	},
+	{
+		"ParameterKey":"DefaultPort",
+		"ParameterValue": "80"
 	}
 ]
